@@ -1,46 +1,19 @@
-# Agent Skills Repository
+# Hydrodynamic Suction Model
 
-Αποθετήριο Agent Skills με επαγγελματικά εργαλεία και δεξιότητες για αυτοματοποίηση.
+**AI for Maritime Safety - Predicting Ship-to-Ship Interaction**
 
-## 📦 Περιεχόμενα
+"Νους και Χέρι" - Mind and Hand
 
-- **pdf-processing** - Δεξιότητα επεξεργασίας PDF (εξαγωγή κειμένου, συμπλήρωση φορμών, συγχώνευση αρχείων)
+### Τι κάνει
+Predictive model για hydrodynamic suction σε λιμάνια.
+Στόχος: Μείωση ατυχημάτων + 8-15% εξοικονόμηση καυσίμου.
 
-## 👤 Συντάκτης
+### Tech
+Python, AI Agents, Maritime Data
 
-- **GitHub:** [@geovel23679-byte](https://github.com/geovel23679-byte)
-- **Repository:** [George-velonakis-update-14-July-2026](https://github.com/geovel23679-byte/George-velonakis-update-14-July-2026)
-- **URL:** https://github.com/geovel23679-byte/George-velonakis-update-14-July-2026
+### Mission
+Κώδικας που τρέχει σε γέφυρα πλοίου, όχι μόνο σε χαρτί.
 
-## 📋 Δομή Αποθετηρίου
-
-```
-├── pdf-processing/
-│   └── SKILL.md          # Κύρια δεξιότητα PDF
-├── README.md             # Αυτό το αρχείο
-└── ...                   # Πρόσθετες δεξιότητες
-```
-
-## 🔧 Χρήση
-
-Κάθε δεξιότητα περιέχει έναν φάκελο με ένα αρχείο `SKILL.md` που ακολουθεί τη [Προδιαγραφή Agent Skills](https://agentskills.io/).
-
-## 📄 Άδεια
-
-- **pdf-processing**: Apache-2.0
-
-## ✅ Νόμιμοτητα
-
-Όλο το περιεχόμενο είναι **100% αυθεντικό, νόμιμο και αρχικό**. Δημιουργήθηκε δίχως αμφιβολία ή αντιγραφή.
-
-## 🚀 Ξεκινήστε
-
-1. Κλωνοποιήστε το repository
-2. Εξερευνήστε τις δεξιότητες στους αντίστοιχους φακέλους
-3. Χρησιμοποιήστε τα στις εφαρμογές σας
-
----
-
-**Δημιουργό:** [@geovel23679-byte](https://github.com/geovel23679-byte)  
-**Ημερομηνία:** 14 Ιουλίου 2026  
-**Αποθετήριο:** https://github.com/geovel23679-byte/George-velonakis-update-14-July-2026
+### Contact
+Georgios Velonakis - MITx Applicant
+[LinkedIn] | geovel23679@gmail.com
